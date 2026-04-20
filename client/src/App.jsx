@@ -54,7 +54,7 @@ export default function App() {
               className="mt-8 flex flex-wrap items-center gap-4"
             >
               <a
-                href="https://wa.me/91XXXXXXXXXX"
+                href="https://wa.me/919519428887"
                 target="_blank"
                 className="group relative inline-flex items-center justify-center px-6 py-3 rounded-2xl bg-gradient-to-r from-green-500 to-emerald-500 text-white font-semibold shadow-lg hover:shadow-2xl transition"
               >
@@ -184,7 +184,7 @@ export default function App() {
         </motion.h2>
 
         <a
-          href="https://wa.me/91XXXXXXXXXX"
+          href="https://wa.me/919519428887"
           target="_blank"
           className="bg-green-500 hover:bg-green-600 px-6 py-3 rounded-xl text-lg shadow-lg"
         >
